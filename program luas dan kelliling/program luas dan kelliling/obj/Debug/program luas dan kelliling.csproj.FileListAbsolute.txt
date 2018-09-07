@@ -1,0 +1,14 @@
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.csprojAssemblyReference.cache
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.csproj.CoreCompileInputs.cache
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.exe.config
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.exe
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.pdb
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.exe
+G:\Kelas XI\PBO C# KK3\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.pdb
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.exe.config
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.exe
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\bin\Debug\program luas dan kelliling.pdb
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.csprojAssemblyReference.cache
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.csproj.CoreCompileInputs.cache
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.exe
+G:\Kelas XI\KK3 PBO C#\program luas dan kelliling\program luas dan kelliling\obj\Debug\program luas dan kelliling.pdb

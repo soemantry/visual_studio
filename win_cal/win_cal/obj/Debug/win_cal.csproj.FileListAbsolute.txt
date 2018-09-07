@@ -1,0 +1,10 @@
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\bin\Debug\win_cal.exe.config
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\bin\Debug\win_cal.exe
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\bin\Debug\win_cal.pdb
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.csprojAssemblyReference.cache
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.Properties.Resources.resources
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.csproj.GenerateResource.cache
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.csproj.CoreCompileInputs.cache
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.exe
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\win_cal.pdb
+G:\Kelas_XI\KK3 PBO C#\win_cal\win_cal\obj\Debug\WindowsFormsApp1.Form1.resources

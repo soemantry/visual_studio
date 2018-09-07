@@ -1,0 +1,7 @@
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\bin\Debug\tringle.exe.config
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\bin\Debug\tringle.exe
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\bin\Debug\tringle.pdb
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\obj\Debug\tringle.csprojAssemblyReference.cache
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\obj\Debug\tringle.csproj.CoreCompileInputs.cache
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\obj\Debug\tringle.exe
+G:\Kelas XI\KK3 PBO C#\tringle\tringle\obj\Debug\tringle.pdb

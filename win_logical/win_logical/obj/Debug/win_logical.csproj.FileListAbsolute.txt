@@ -1,0 +1,10 @@
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.csprojAssemblyReference.cache
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.Form1.resources
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.Properties.Resources.resources
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.csproj.GenerateResource.cache
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.csproj.CoreCompileInputs.cache
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\bin\Debug\win_logical.exe.config
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\bin\Debug\win_logical.exe
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\bin\Debug\win_logical.pdb
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.exe
+G:\Kelas_XI\KK3 PBO C#\win_logical\win_logical\obj\Debug\win_logical.pdb

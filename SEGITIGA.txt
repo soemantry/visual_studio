@@ -1,0 +1,28 @@
+int size = 0;
+            int row, column, space;
+
+            Console.Write("Masukan Ukuran: ");
+            size = Convert.ToInt32(Console.ReadLine());
+
+            // Baris baru.
+            Console.WriteLine();
+
+
+            for (row = 0; row < size; row++)
+            {
+                for (space = size; space > row; space--)
+                {
+                    Console.Write(" ");
+                }
+                for(column = 0; column < (row*2)-1; column++)
+                {
+                    Console.Write("*");
+                }
+
+
+                Console.WriteLine();
+
+            }
+
+
+            Console.ReadLine();

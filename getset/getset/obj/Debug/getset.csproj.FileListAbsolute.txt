@@ -1,0 +1,7 @@
+G:\Kelas_XI\KK3 PBO C#\getset\getset\bin\Debug\getset.exe.config
+G:\Kelas_XI\KK3 PBO C#\getset\getset\bin\Debug\getset.exe
+G:\Kelas_XI\KK3 PBO C#\getset\getset\bin\Debug\getset.pdb
+G:\Kelas_XI\KK3 PBO C#\getset\getset\obj\Debug\getset.csprojAssemblyReference.cache
+G:\Kelas_XI\KK3 PBO C#\getset\getset\obj\Debug\getset.csproj.CoreCompileInputs.cache
+G:\Kelas_XI\KK3 PBO C#\getset\getset\obj\Debug\getset.exe
+G:\Kelas_XI\KK3 PBO C#\getset\getset\obj\Debug\getset.pdb

@@ -1,0 +1,33 @@
+string alamat1;
+string alamat2;
+string alamat3;
+string alamat4;
+string alamat5;
+
+string[] alamat = new string [0]
+{
+  "Banyumas","Purwokerto","Soakraja","Ajibarang","Baturaden"
+};
+
+Console.WriteLine (alamat[0].IndexOf(y);  ==> 3 dihitung dari depan
+Console.WriteLine (alamat[0].LastIndexOf(y);  ==> dihitumg dari belakang  
+Console.WriteLine (alamat[0].Insert(3,"y,y");
+
+auto resize kelipatan 4
+
+ArayList namaobjarray = new ArrayList();
+
+sales.Add()
+c.w (sales.capacity);
+sales.Add("es batu");
+
+  
+
+konsep oop
+aturan dasar opp
+class oop
+
+
+
+
+

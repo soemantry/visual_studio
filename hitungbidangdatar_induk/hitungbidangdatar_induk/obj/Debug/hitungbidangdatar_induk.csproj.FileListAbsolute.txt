@@ -1,0 +1,14 @@
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.exe.config
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.exe
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.pdb
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.csprojAssemblyReference.cache
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.csproj.CoreCompileInputs.cache
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.exe
+c:\users\diptya sumantry\source\repos\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.pdb
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.exe.config
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.exe
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\bin\Debug\hitungbidangdatar_induk.pdb
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.csprojAssemblyReference.cache
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.csproj.CoreCompileInputs.cache
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.exe
+G:\Kelas_XI\KK3 PBO C#\hitungbidangdatar_induk\hitungbidangdatar_induk\obj\Debug\hitungbidangdatar_induk.pdb
